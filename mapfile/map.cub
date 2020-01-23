@@ -1,0 +1,26 @@
+R1920 1080
+EA   ./texture/bluestone.xpm
+
+SO ./texture/eagle.xpm
+
+WE   ./texture/mossy.xpm
+NO  ./texture/colorstone.xpm
+
+
+
+
+
+S   ./texture/monstre.xpm
+
+C     255,0,0
+
+F     0,255,25
+
+
+
+
+
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 N 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1

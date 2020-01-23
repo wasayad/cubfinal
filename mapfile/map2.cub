@@ -1,0 +1,17 @@
+R 720 480
+
+NO ./texture/colorstone.xpm
+SO ./texture/eagle.xpm
+WE ./texture/mossy.xpm
+EA ./texture/bluestone.xpm
+
+S ./texture/monstre.xpm
+
+C 255,0,0
+F 0, 255, 0
+1111111111111
+1212121121211
+1010101101011
+1N00020200001
+1000020200001
+1111111111111
